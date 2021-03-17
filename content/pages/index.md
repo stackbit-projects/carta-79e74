@@ -15,7 +15,7 @@ sections:
       - label: Google Play
         url: /pricing
         style: secondary
-    image: images/WhatsApp Image 2021-02-27 at 8.51.42 AM.jpeg
+    image: images/feature-1.svg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
